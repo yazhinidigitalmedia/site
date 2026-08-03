@@ -1,0 +1,1 @@
+console.log('Yazhini Digital website loaded');
